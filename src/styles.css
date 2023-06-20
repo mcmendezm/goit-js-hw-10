@@ -1,0 +1,17 @@
+.loader {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+}
+.box__one {
+  display: flex;
+  flex-direction: column;
+  margin: 50px 80px;
+}
